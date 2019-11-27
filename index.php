@@ -90,7 +90,7 @@
                                 <a href="http://smyrnabrasil.com.br/blog/lancamento-vovo/">Eventos</a>
                             </li>
                             <li>
-                                <a href="#">Blog</a>
+                                <a href="http://smyrnabrasil.com.br/blog/">Blog</a>
                               </li>
                               <li class="dropdown">
                                 <a href="#">Contato</a>
