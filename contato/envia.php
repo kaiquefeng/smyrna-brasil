@@ -1,7 +1,9 @@
+
+
 <?php
 
-if ($_SERVER[HTTP_REFERER] == "http://smyrnabrasil.com.br/contato/" 
-	$_SERVER[HTTP_REFERER] == "http://smyrnabrasil.com.br/seja_distribuidor/" 
+if ($_SERVER[HTTP_REFERER] == "http://smyrnabrasil.com.br/contato/" ||
+	$_SERVER[HTTP_REFERER] == "http://smyrnabrasil.com.br/seja_distribuidor/"
  {
 
     require_once("class.phpmailer.php");

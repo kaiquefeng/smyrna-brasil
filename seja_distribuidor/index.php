@@ -118,7 +118,7 @@
 
           <!-- Push Nav Button -->
                 <div class="mobile"><div class="desktop-hide"><div id="showMenu" class="showMenuButton-two">
-                    <span class="hamburger"></span</div>
+                    <span class="hamburger"></span></div>
                 </div>
           <!-- end navigation -->
 
@@ -182,7 +182,7 @@
   <div class="form-group">
     <label for="exampleFormControlSelect1">Estado para ser um Distribuidor</label>
     <!--<input type="text" class="form-control" name="estado" id="contact-estado" placeholder="Estado">-->
-    <select class="form-control" name="select" id="contact-select">
+    <select class="form-control" name="estado" id="contact-select">
       <option>Acre</option>
       <option>Alagoas</option>
       <option>Amapá</option>

@@ -117,7 +117,7 @@
 
           <!-- Push Nav Button -->
                 <div class="mobile"><div class="desktop-hide"><div id="showMenu" class="showMenuButton-two">
-                    <span class="hamburger"></span</div>
+                    <span class="hamburger"></span></div>
                 </div>
           <!-- end navigation -->
 
